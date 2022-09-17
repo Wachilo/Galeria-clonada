@@ -10,9 +10,6 @@ import os
 from flask_mail import Mail, Message
 
 
-def comprueba_fondo():
-	pass
-
 DOCUMENTOS = ["doc","docx"]
 
 def usuario():
